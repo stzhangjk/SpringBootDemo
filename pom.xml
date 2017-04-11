@@ -21,6 +21,7 @@
         <module>002-SpringBootApplication</module>
         <module>003-ApplicationListener</module>
         <module>004-ExternalizedConfiguration</module>
+        <module>005-YAML</module>
     </modules>
 
     <!-- Add typical dependencies for a web application -->

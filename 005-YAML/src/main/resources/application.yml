@@ -1,0 +1,4 @@
+connection:
+  username: admin
+  password: 123456
+  remoteAddr: 127.0.0.1
